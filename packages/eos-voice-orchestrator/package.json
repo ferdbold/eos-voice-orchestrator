@@ -2,7 +2,7 @@
   "name": "eos-voice-orchestrator",
   "version": "1.0.0",
   "description": "EOS Voice Orchestrator",
-  "main": "eos-voice-orchestrator.js",
+  "main": "hello.js",
   "scripts": {
     "test": "jest --coverage --runInBand --forceExit --verbose false"
   },

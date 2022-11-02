@@ -1,4 +1,4 @@
-const { main } = require("../eos-voice-orchestrator");
+const { main } = require("../hello");
 
 describe("Test App", () => {
   test("Hello", () => {
