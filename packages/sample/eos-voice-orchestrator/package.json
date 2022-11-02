@@ -1,8 +1,8 @@
 {
-  "name": "hello",
+  "name": "eos-voice-orchestrator",
   "version": "1.0.0",
-  "description": "Hello world: NodeJs",
-  "main": "hello.js",
+  "description": "EOS Voice Orchestrator",
+  "main": "eos-voice-orchestrator.js",
   "scripts": {
     "test": "jest --coverage --runInBand --forceExit --verbose false"
   },

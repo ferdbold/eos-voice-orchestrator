@@ -1,5 +1,5 @@
 packages:
-  - name: sample
+  - name: eos-voice-orchestrator
     actions:
       - name: hello
         runtime: 'nodejs:default'

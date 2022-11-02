@@ -3,11 +3,11 @@ alerts:
 - rule: DOMAIN_FAILED
 functions:
 - github:
-    branch: master
+    branch: main
     deploy_on_push: true
-    repo: digitalocean/sample-functions-nodejs-helloworld
+    repo: ferdbold/eos-voice-orchestrator
   name: nodejs-api
   routes:
   - path: /
   source_dir: /
-name: nodejs-helloworld
+name: eos-voice-orchestrator
