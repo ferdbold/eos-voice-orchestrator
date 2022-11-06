@@ -3,3 +3,9 @@ packages:
     actions:
       - name: hello
         runtime: 'nodejs:default'
+      - name: join-room
+        runtime: 'nodejs:default'
+environment:
+  client_id: ${client_id}
+  client_secret: ${client_secret}
+  deployment_id: ${deployment_id}
